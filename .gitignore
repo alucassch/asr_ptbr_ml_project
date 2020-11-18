@@ -1,2 +1,6 @@
+*.pyc
 .ipynb_checkpoints/
 img/
+meta.yaml
+exp
+asr*.zip
